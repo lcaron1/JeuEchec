@@ -28,3 +28,13 @@ C:\Users\loïc\Desktop\Projet Module\V1\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csp
 C:\Users\loïc\Desktop\Projet Module\V1\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csproj.CoreCompileInputs.cache
 C:\Users\loïc\Desktop\Projet Module\V1\JeuEchec\JeuEchec\obj\Debug\JeuEchec.exe
 C:\Users\loïc\Desktop\Projet Module\V1\JeuEchec\JeuEchec\obj\Debug\JeuEchec.pdb
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\bin\Debug\JeuEchec.exe.config
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\bin\Debug\JeuEchec.exe
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\bin\Debug\JeuEchec.pdb
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.Form_Jeu.resources
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.Properties.Resources.resources
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csproj.GenerateResource.cache
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.exe
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.pdb
