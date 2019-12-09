@@ -10,8 +10,7 @@ namespace JeuEchec
 {
     class Case : Button
     {
-
-
+          
         public Case(string name, System.Drawing.Bitmap bitmap,string color)// string nom , color , image,position
         {
            

@@ -18,7 +18,5 @@ namespace JeuEchec
             this.nom = nom;
             this.color = color;            
         }
-
-        
     }
 }
