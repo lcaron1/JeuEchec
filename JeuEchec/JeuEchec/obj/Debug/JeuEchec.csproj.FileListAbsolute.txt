@@ -37,3 +37,4 @@ C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEc
 C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\bin\Debug\JeuEchec.pdb
 C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.exe
 C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.pdb
+C:\Users\Stagiaire\Documents\Cours\Informatique\Cours C#\JeuEchec\jeuEchec\JeuEchec\JeuEchec\obj\Debug\JeuEchec.csprojAssemblyReference.cache

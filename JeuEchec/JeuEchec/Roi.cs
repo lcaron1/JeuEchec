@@ -11,16 +11,17 @@ namespace JeuEchec
     class Roi : Piece
     {
      private Image image;
-
+        
         public Image Image { get => image; set => image = value; }
         public Roi(string color) : base(color) {
             if(color == "black")
             {
-                Image image = new Bitmap(Resources.roiB);
+                Image image = new Bitmap(Resources.roiN);
+           
             }
             else
             {
-                Image image = new Bitmap(Resources.roi);
+                Image image = new Bitmap(Resources.roiB);
             }
         }
 

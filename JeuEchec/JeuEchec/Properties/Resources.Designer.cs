@@ -63,16 +63,6 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cavalier {
-            get {
-                object obj = ResourceManager.GetObject("cavalier", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap cavalierB {
             get {
                 object obj = ResourceManager.GetObject("cavalierB", resourceCulture);
@@ -83,9 +73,9 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fou {
+        internal static System.Drawing.Bitmap cavalierN {
             get {
-                object obj = ResourceManager.GetObject("fou", resourceCulture);
+                object obj = ResourceManager.GetObject("cavalierN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +93,9 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Pion {
+        internal static System.Drawing.Bitmap fouN {
             get {
-                object obj = ResourceManager.GetObject("Pion", resourceCulture);
+                object obj = ResourceManager.GetObject("fouN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +103,19 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap PionB {
+        internal static System.Drawing.Bitmap pionB {
             get {
-                object obj = ResourceManager.GetObject("PionB", resourceCulture);
+                object obj = ResourceManager.GetObject("pionB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pionN {
+            get {
+                object obj = ResourceManager.GetObject("pionN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,16 +133,6 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap reine {
-            get {
-                object obj = ResourceManager.GetObject("reine", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap reineB {
             get {
                 object obj = ResourceManager.GetObject("reineB", resourceCulture);
@@ -153,9 +143,9 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap roi {
+        internal static System.Drawing.Bitmap reineN {
             get {
-                object obj = ResourceManager.GetObject("roi", resourceCulture);
+                object obj = ResourceManager.GetObject("reineN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +163,9 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Tour {
+        internal static System.Drawing.Bitmap roiN {
             get {
-                object obj = ResourceManager.GetObject("Tour", resourceCulture);
+                object obj = ResourceManager.GetObject("roiN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +173,19 @@ namespace JeuEchec.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Tour1 {
+        internal static System.Drawing.Bitmap tourB {
             get {
-                object obj = ResourceManager.GetObject("Tour1", resourceCulture);
+                object obj = ResourceManager.GetObject("tourB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tourN {
+            get {
+                object obj = ResourceManager.GetObject("tourN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
